@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exercise02_Intent_Solution</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonNavigateToDetail">Navigate to other activity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="detail_dataplaceholder">None</string>
+
+</resources>
