@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Exercise08_BroadcastReceiver_Solution</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-</resources>
